@@ -256,9 +256,10 @@ Typical analytical dimensions include:
 
 ---
 
-## 📷 Dashboard Preview
+## 📸 Dashboard Preview
 
-https://github.com/PuneetguptaDev/FinacialPlanning-Analysis/blob/main/Finance%20analysis-1.png
+![Finance Analysis Dashboard](Finance%20analysis-1.png)
+![Finance Analysis Dashboard](Finance%20analysis-2.png)
 
 ---
 
