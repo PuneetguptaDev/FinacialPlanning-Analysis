@@ -98,10 +98,6 @@ Interactive filters allow users to drill into specific transaction records and c
 
 ![Finance Analysis Dashboard](Screenshots/Finance%20analysis-1.png)
 
----
-
-## Transaction Details Dashboard
-
 ![Finance Analysis Transaction Dashboard](Screenshots/Finance%20analysis-2.png)
 
 ---
