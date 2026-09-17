@@ -258,9 +258,13 @@ Typical analytical dimensions include:
 
 ## 📸 Dashboard Preview
 
-Finance analysis-1.png
-Finance analysis-2.png
----
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="./Finance-Analysis-Dashboard/Finance%20analysis-1.png" 
+       alt="Finance Analysis Dashboard" 
+       width="100%">
+</p>
 ---
 
 ## 📁 Repository Structure
